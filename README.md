@@ -2,7 +2,7 @@
 
 Random Walks project from Python Crash Course
 
-![alt text](screenshots/random_walks.jpg "Random Walks")
+![alt text](screenshots/random_walks2.jpg "Random Walks")
 
 ## Add Matplotlib package when using PyCharm
 
