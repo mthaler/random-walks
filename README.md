@@ -2,6 +2,8 @@
 
 Random Walks project from Python Crash Course
 
+![alt text](screenshots/random_walks.jpg "Random Walks")
+
 ## Add Matplotlib package when using PyCharm
 
 The Random Walks app requires the Matplotlib package to be installed.
